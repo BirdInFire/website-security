@@ -4,6 +4,11 @@ This repository is intended for my website management
 # Updates
 
 ## 2024
+03-05-2024 - Bootstrap map file removed to reduce the size of the upload\
+03-05-2024 - Manual CSS, JS, HTML minify due to deprecation of auto minify from cloudflare\
+03-05-2024 - CSS rewrite to reduce the size of the file\
+03-05-2024 - Js rewrite to reduce the size of the file\
+03-05-2024 - Design Change\
 02-05-2024 - Fixed an Ipad CSS issue\
 02-05-2024 - As CDN subdomain is removed Subresource integrity too (to reduce the hardware requirement)\
 02-05-2024 - Harden the CSP authorization to remove the redirection autorization\

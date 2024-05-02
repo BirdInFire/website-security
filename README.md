@@ -4,8 +4,9 @@ This repository is intended for my website management
 # Updates
 
 ## 2024
+02-05-2024 - Fixed an Ipad CSS issue\
 02-05-2024 - As CDN subdomain is removed Subresource integrity too (to reduce the hardware requirement)\
-02-05-2024 - Removing the CSP authorization to make the redirection happen\
+02-05-2024 - Harden the CSP authorization to remove the redirection autorization\
 02-05-2024 - Moving the redirection mechanism to cloudflare dashboard\
 02-05-2024 - Disable a Cloudflare JS injection for security (blocked by csp so useless)\
 02-05-2024 - Fix a forgotten inline CSS (blocked by csp so useless)\

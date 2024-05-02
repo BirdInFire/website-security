@@ -3,6 +3,10 @@ This repository is intended for my website management
 
 # Updates
 
+02-05-2024 - Removing the CSP authorization to make the redirection happen\
+02-05-2024 - Moving the redirection mechanism to cloudflare dashboard\
+02-05-2024 - Disable a Cloudflare JS injection for security (blocked by csp so useless)\
+02-05-2024 - Fix a forgotten inline CSS (blocked by csp so useless)\
 03-04-2024 - Moved from one domain to another\
 02-04-2024 - Added multiple Geolock to reduce automated attack\
 01-03-2024 - Added Signal username for secure talk\

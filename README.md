@@ -3,6 +3,7 @@ This repository is intended for my website management
 
 # Updates
 
+02-05-2024 - As CDN subdomain is removed Subresource integrity too (to reduce the hardware requirement)
 02-05-2024 - Removing the CSP authorization to make the redirection happen\
 02-05-2024 - Moving the redirection mechanism to cloudflare dashboard\
 02-05-2024 - Disable a Cloudflare JS injection for security (blocked by csp so useless)\

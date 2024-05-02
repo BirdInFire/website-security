@@ -12,7 +12,7 @@ This repository is intended for my website management
 03-04-2024 - Moved from one domain to another\
 02-04-2024 - Added multiple Geolock to reduce automated attack\
 01-03-2024 - Added Signal username for secure talk\
-21-02-2024 - Bootstrap Update from 5.3.2 to 5.3.3\
+21-02-2024 - Bootstrap Update from 5.3.2 to 5.3.3
 
 ## 2023
 19-09-2023 - Add explicit object-src into header instead of relying on default-src\

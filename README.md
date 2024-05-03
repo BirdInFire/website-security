@@ -4,6 +4,7 @@ This repository is intended for my website management
 # Updates
 
 ## 2024
+03-05-2024 - Replace Jpg with Webp ([seahorse](https://github.com/robaho/seashore/issues/208) now support it)\
 03-05-2024 - Bootstrap map file removed to reduce the size of the upload\
 03-05-2024 - Manual CSS, JS, HTML minify due to deprecation of auto minify from cloudflare\
 03-05-2024 - CSS rewrite to reduce the size of the file\

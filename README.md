@@ -4,6 +4,10 @@ This repository is intended for my website management
 # Updates
 
 ## 2024
+04-05-2024 - Hardening CSP to forbid script to run\
+04-05-2024 - Removing JS script become useless\
+04-05-2024 - Move from bootstrap full to grid (reducing the size from 256kb to 71kb)\
+04-05-2024 - Rewrite of CSS to reduce even more size\
 03-05-2024 - Replace Jpg with Webp ([seahorse](https://github.com/robaho/seashore/issues/208) now support it)\
 03-05-2024 - Bootstrap map file removed to reduce the size of the upload\
 03-05-2024 - Manual CSS, JS, HTML minify due to deprecation of auto minify from cloudflare\

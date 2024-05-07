@@ -4,6 +4,8 @@ This repository is intended for my website management
 # Updates
 
 ## 2024
+07-05-2024 - Rewrite the bootsrap grid manually removing massive size (negate the quality upgrade of the webp total site size 57k)\
+07-05-2024 - Use of webp lossless (increasing the size of the website)\
 04-05-2024 - Hardening CSP to forbid script to run\
 04-05-2024 - Removing JS script become useless\
 04-05-2024 - Move from bootstrap full to grid (reducing the size from 256kb to 71kb)\

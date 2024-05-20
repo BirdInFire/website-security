@@ -4,6 +4,7 @@ This repository is intended for my website management
 # Updates
 
 ## 2024
+21-05-2024 - Many change where made in the picture compresion (webp), and other change in code website is now 15kb\
 07-05-2024 - Rewrite the bootsrap grid manually (negate the quality upgrade of the webp total site size 57k)\
 07-05-2024 - Use of webp lossless (increasing the size of the website)\
 04-05-2024 - Hardening CSP to forbid script to run\
